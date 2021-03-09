@@ -1,5 +1,9 @@
 # SINF_Test
 
+## Product Vision
+
+![Product Vision](https://github.com/the-grandson/SINF_Test/blob/master/Images/1%20y9kx2b5ANvSGQjo2mRKOTg.png)
+
 Dear SINF students, hope you're doing well in your LP class.
 This readme.md file was edited in the readme-branch and later merged into master.
 
